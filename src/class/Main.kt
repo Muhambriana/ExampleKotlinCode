@@ -1,5 +1,5 @@
 package `class`
 
-class Main {
+private class Main {
 
 }
